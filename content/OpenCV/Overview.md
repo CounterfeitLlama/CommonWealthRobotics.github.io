@@ -11,3 +11,4 @@ OpenCV is a tool for object detection using a camera or input file from the comp
 OpenCV can train an xml file to be able to detect when a certain object is in the camera or supplied video. It uses machine learning in order to train the file. This means that the more images that are supplied, the better the resulting Cascade Classifier will be.
 
 ##Cascade Classifier
+After training a Cascade Classifier, or by using a supplied xml file, OpenCV can then recognize objects in the screen. These can be combined so that OpenCV can recognize multiple objects at once, or so that it can more accurately detect the same object. Being the programmer, you have the ability to be creative in this stage.
