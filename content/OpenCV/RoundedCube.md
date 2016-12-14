@@ -1,5 +1,5 @@
 ---
-title: Rounded Cube
+title: Extract Face from Camera
 step: 2
 layout: post
 ---
